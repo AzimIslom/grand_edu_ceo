@@ -1,0 +1,46 @@
+name: grand_edu_ceo
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  flutter_svg: ^2.0.7
+  flashy_tab_bar2: ^0.0.6
+  mask_text_input_formatter: ^2.5.0
+  faker: ^2.1.0
+  vibration: ^1.8.1
+  page_transition: ^2.0.9
+  anim_search_bar: ^2.0.3
+  intl: ^0.18.1
+  syncfusion_flutter_charts: ^22.2.9
+  pluto_grid: ^7.0.2
+
+  #firebase
+  firebase_auth: ^4.7.2
+  firebase_core: ^2.15.0
+  cloud_firestore: ^4.8.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - lib/data/

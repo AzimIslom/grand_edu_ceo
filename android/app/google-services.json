@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "896154774253",
+    "project_id": "grand-edu",
+    "storage_bucket": "grand-edu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896154774253:android:35ddafe3ad74b3e175fae4",
+        "android_client_info": {
+          "package_name": "com.azimislom.grand_edu_ceo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896154774253-s5sj9sci01anh118510slkqep6s5q19t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzuX35VTWcToXxtUi84bmsv76sqgdYKpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896154774253-s5sj9sci01anh118510slkqep6s5q19t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896154774253-70o640in5a5v2phevsdioommnh085evq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.azimislom.grandEduCeo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
